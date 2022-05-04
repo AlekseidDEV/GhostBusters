@@ -688,6 +688,57 @@ margin-bottom: 14px;
     }
 }
 
+@media(max-width: 415px){
+   .icon__tabs{
+       max-width: 60px;
+       width: 100%;
+   }
+   
+   .strip__sup{
+       gap: 0px 6px ;
+   }
+   .block{
+       padding-left: 10px;
+       padding-right: 10px;
+   }
+
+   .card__trailer{
+       max-width: 319px;
+       width: 100%;
+   }
+
+   .trailer{
+       max-width: 319px;
+       width: 100%;
+   }
+}
+
+@media(max-width: 375px){
+    .header_input{
+        display: none;
+    }
+
+    .strip__sup{
+        gap: 0px 0px;
+        margin: 0;
+        padding: 0;
+    }
+
+    .header__search{
+        margin-left: 190px;
+    }
+
+}
+
+@media(max-width: 345px){
+    .header__search{
+        margin-left: 130px;
+    }
+}
+
+
+
+
 
 
 
