@@ -566,6 +566,8 @@ margin-bottom: 14px;
     .column{
         margin-left: 50px;
         margin-bottom: 20px;
+        max-width: 245px;
+        width: 100%;
     }
 
     .actor__title{
